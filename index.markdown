@@ -1,9 +1,8 @@
 ---
 layout: home
-title: The Aesthetic Observer
 ---
 
-<h1>Latest Articles</h1>
+# Latest Articles
 
 <ul>
   {% for post in site.posts %}
