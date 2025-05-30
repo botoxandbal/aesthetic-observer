@@ -3,13 +3,12 @@ layout: home
 title: The Aesthetic Observer
 ---
 
-## Latest Articles
+<h1>Latest Articles</h1>
 
 <ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <p>{{ post.description }}</p>
     </li>
   {% endfor %}
 </ul>
