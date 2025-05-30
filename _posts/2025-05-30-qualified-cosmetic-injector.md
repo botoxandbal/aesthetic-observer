@@ -3,9 +3,13 @@ layout: post
 title: "How to Choose a Safe and Qualified Cosmetic Injector: Doctor or Nurse?"
 author: Avi Kaul
 date: 2025-05-30
-categories: [injectables, aesthetics, advice]
+categories:
+  - injectables
+  - aesthetics
+  - advice
 description: "Whether you're seeing a doctor or nurse, here's how to ensure your injector is skilled, safe, and qualified."
 ---
+
 
 **By Avi Kaul — Cosmetic Health Writer, Industry Advocate**
 
