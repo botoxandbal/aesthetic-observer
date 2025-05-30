@@ -1,0 +1,7 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+**The Aesthetic Observer** is a curated platform exploring cosmetic medicine, injectables, skin trends, and the evolving world of aesthetics.

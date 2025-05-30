@@ -1,0 +1,11 @@
+title: Aesthetic Observer
+email: your-email@example.com
+description: >- 
+  A blog dedicated to exploring the truth and transparency in cosmetic aesthetics.
+baseurl: "" 
+url: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
