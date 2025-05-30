@@ -1,12 +1,14 @@
 ---
 layout: home
+title: The Aesthetic Observer
 ---
+
+## Latest Articles
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.date | date: "%B %d, %Y" }}</p>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <p>{{ post.description }}</p>
     </li>
   {% endfor %}
