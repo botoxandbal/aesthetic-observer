@@ -1,6 +1,6 @@
 ---
 layout: home
-title: articles
+title: posts
 ---
 
 Welcome to my new site!
